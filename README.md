@@ -27,7 +27,7 @@ File ```modeloutput_id_wnid_class.json``` gives pytorch pre-trained model output
 打开jupyter notebook ```imagenet_and_pytorch_pretrained_model_id_mapping.ipynb```
 
 ## 在"data"文件夹中
-文件夹```sample_1000```中有示例图片，其命名格式为：(ImageNet_ID)\_(WNID).JPEG
+文件夹```sample_1000```中有示例图片，其命名格式为：(ImageNet_ID)\_(WNID).JPEG；
 我仅上传了100张示例图片；如需要完整1000张图，请点击如下链接下载
 https://drive.google.com/drive/folders/1XF_n21S1OFyLO61ruHwJd_tj3SlwNuAd?usp=sharing
 

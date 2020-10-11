@@ -39,7 +39,7 @@ def map_model_id_to_imagenet_id(imagenet_id, modeloutput_id):
                 break
     return map_dict
 
-def map_imagenet_id_to_model_id(imagenet_id, label_index_dict):
+def map_imagenet_id_to_model_id(imagenet_id, modeloutput_id):
     '''
     return a dict mapping imagenet id to modeloutput id
     '''
